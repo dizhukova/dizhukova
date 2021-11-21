@@ -27,7 +27,8 @@ I'm Diana, a frontend developer, student of [Yandex.Praktikum](https://praktikum
   <img src="https://img.shields.io/badge/Express.js-F5FFFA" height="23" />
 </span>
 
-<br>
+### 📊 Statistics:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dizhukova&layout=compact)
 
 #### 🤝 Connect with me:
 <a href="https://github.com/dizhukova" target="_blank">
@@ -40,4 +41,3 @@ I'm Diana, a frontend developer, student of [Yandex.Praktikum](https://praktikum
 <br>
                                        
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="center" style="width: 200px" />                                                                                                                                 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dizhukova&layout=compact) -->
